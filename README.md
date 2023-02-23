@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
 
   
-  <h3 align="center">📫 Tech Stack 📫</h3>
+  <h3 align="center">📫 using tool 📫</h3>
 <h2 align="center"><img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white"> 
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 

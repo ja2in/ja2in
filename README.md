@@ -2,7 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodlszz)](https://solved.ac/wodlszz/)
 
 
-<img src="https://img.shields.io/badge/Python-#00945E?style=for-the-badge&logo=Python&logoColor=white">
+
 
 
 

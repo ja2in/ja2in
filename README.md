@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white"> 
+ <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white"> 
   <br></br><h3 align="center">😄 ~ing 😄</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaein&theme=react&show_icons=true)

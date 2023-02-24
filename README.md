@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white"> 
   <br></br><h3 align="center">😄 ~ing 😄</h3>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaein&theme=react&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2in&theme=react&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodlszz)](https://solved.ac/wodlszz/)
 
 

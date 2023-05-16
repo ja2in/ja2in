@@ -1,8 +1,9 @@
 <h3 align="center">📚 I Learned && Learning📚</h3>
 <h2 align="center">
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%">
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C++&amp;logoColor=white" style="max-width: 100%;">
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" style="max-width: 100%;"> 
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"> 
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">  
    <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;"> 
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%"> 
 

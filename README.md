@@ -1,20 +1,19 @@
-
 <h3 align="center">📚 I Learned && Learning📚</h3>
-<h2 align="center"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
-   <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<h2 align="center">
+   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" style="max-width: 100%;"> 
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"> 
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;"> 
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%"> 
 
-
-  
-  <h3 align="center">📫 using tool 📫</h3>
-<h2 align="center"><img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white"> 
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
-<img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white"> 
- <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white"> 
-  <br></br><h3 align="center">😄 ~ing 😄</h3>
+<h3 align="center">📫 using tool 📫</h3>
+<h2 align="center"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&amp;logo=VisualStudio&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&amp;logo=VSCode&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=IntelliJ&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;">
+ 
+   <br></br><h3 align="center">😄 ~ing 😄</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2in&theme=react&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodlszz)](https://solved.ac/wodlszz/)

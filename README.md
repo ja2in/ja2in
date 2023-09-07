@@ -10,8 +10,8 @@
 <h3 align="center">📫 using tool 📫</h3>
 <h2 align="center"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white" style="max-width: 100%"> 
    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&amp;logo=VisualStudio&amp;logoColor=white" style="max-width: 100%"> 
-   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&amp;logo=VSCode&amp;logoColor=white" style="max-width: 100%"> 
-   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=IntelliJ&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&amp;logo=VisualStudioCode&amp;logoColor=white" style="max-width: 100%"> 
+   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=IntelliJ IDEA&amp;logoColor=white" style="max-width: 100%"> 
    <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;">
  
    <br></br><h3 align="center">😄 ~ing 😄</h3>

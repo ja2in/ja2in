@@ -1,9 +1,10 @@
 *<h4 align="left"> Once I've used</h4>*
-<h4 align="left">
+<h4 align="left">  
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%">
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C++&amp;logoColor=white" style="max-width: 100%;">
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" style="max-width: 100%;"> 
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">  
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=OpenCV&amp;logoColor=white" style="max-width: 100%;">
    <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;"> 
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%"> 
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%"> 
@@ -24,7 +25,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wodlszz)](https://solved.ac/wodlszz)<br/>
 
 *<h4 align="left">GitHub stats</h4>*
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2in&theme=react&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja2in&layout=compact&theme=react)
+
 
 
 

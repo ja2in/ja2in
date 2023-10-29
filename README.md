@@ -8,8 +8,6 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%"> 
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%"> 
    
-   ***
-
 *<h4 align="left">using tool</h3>*
 <h4 align="left">
    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white" style="max-width: 100%"> 
@@ -18,14 +16,10 @@
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=IntelliJ IDEA&amp;logoColor=white" style="max-width: 100%"> 
    <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&amp;logo=Microsoft sql server&amp;logoColor=white" style="max-width: 100%;">
 
-   ***
 *<h4 align="left">BOJ solved.ac</h3>*
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wodlszz)](https://solved.ac/wodlszz)<br/>
-***
 
 *<h4 align="left">GitHub stats</h3>*
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2in&theme=react&show_icons=true) 
 
 
